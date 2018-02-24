@@ -32,8 +32,17 @@
 
 ---
 
-### Upplägg:
+### Att lägga upp en föreläsning:
 
 - Försök involvera så få beroenden som möjligt.
-    + Kom ihåg 
-- 
+    + Gick inte så bra igår när jag skulle förklara listor
+- Bilder, rita på tavlan, exempel.
+- Livekoda
+
+---
+
+### https://github.com/lunduniversity/schoolprog
+
+---
+
+### https://projecteuler.net
